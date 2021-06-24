@@ -1,0 +1,9 @@
+Please download the dataset from the following link (My google drive) and place the image folder in the python script directory.
+
+https://drive.google.com/file/d/1AMEK5NRN-X0a8Jo9ivuEGUCuEKukqHff/view?usp=sharing
+
+Please let me know if you have difficulties.
+
+bmn891@uregina.ca
+
+Thank you!
